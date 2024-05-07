@@ -1,4 +1,4 @@
-# Reto_11
+# Reto 11
 | Nombre                 | Identificación | Grupo | Trabajo          |
 |------------------------|----------------|-------|------------------|
 | Angélica Pascagaza Vega| 1031652163     |   5   | Trabajo individual |
